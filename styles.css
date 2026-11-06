@@ -1,0 +1,9 @@
+footer {
+    background: red;
+    color: white;
+}
+.btn {
+    border: none;
+    border-radius: 0.65rem;
+    cursor: pointer;
+}
